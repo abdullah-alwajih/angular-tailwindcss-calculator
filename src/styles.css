@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root {
+  /*** Colors ***/
+  --hue-color: 240;
+
+  --body-color: hsl(var(--hue-color), 10%, 16%);
+  --screen-color: hsl(69, 24%, 59%);
+  --key-number-color: hsl(var(--hue-color), 0%, 100%);
+
+  /*** Font and typography ***/
+  --body-font: 'Poppins', sans-serif;
+  --screen-font-size: 2em;
+  --key-number-font-size: 1.5em;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--body-font);
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: var(--body-color);
+}
