@@ -1,6 +1,6 @@
 {
-  "name": "calculator",
-  "short_name": "calculator",
+  "name": "Calculator",
+  "short_name": "Calculator",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

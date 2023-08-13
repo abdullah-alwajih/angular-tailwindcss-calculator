@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1691922508936,
-  "index": "/index.html",
+  "timestamp": 1691922772681,
+  "index": "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.51fcfbf7be8d0a14.js",
-        "/manifest.webmanifest",
-        "/polyfills.aea69b34d1639466.js",
-        "/runtime.42857009c20121e6.js",
-        "/styles.18ed730b3963fa47.css"
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/favicon.ico",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/main.51fcfbf7be8d0a14.js",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/manifest.webmanifest",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/polyfills.aea69b34d1639466.js",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/runtime.42857009c20121e6.js",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/styles.18ed730b3963fa47.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-48x48.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-128x128.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-144x144.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-152x152.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-192x192.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-384x384.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-48x48.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-512x512.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-72x72.png",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "d895a91e6ae664bf0bd7fa2be47f288c448b3f66",
-    "/assets/icons/icon-144x144.png": "e09be47659bb6837f513e2bb4fba5c039885be90",
-    "/assets/icons/icon-152x152.png": "e1372e68e1871418bad3a81bccd0fd69c50eb10d",
-    "/assets/icons/icon-192x192.png": "c8a4ae0351fb0842eecb3886793fe6b0caaa0711",
-    "/assets/icons/icon-384x384.png": "5434230f0f8a418aae720bab181acdba28a187e7",
-    "/assets/icons/icon-48x48.png": "ad24a512ed655a55b9063dc4e7d7318936bf6331",
-    "/assets/icons/icon-512x512.png": "52e7b6eb8c25e11ccf370f1bc34b337cd65faa60",
-    "/assets/icons/icon-72x72.png": "2538f2e7cce667e615889cc7d9851191ad6de769",
-    "/assets/icons/icon-96x96.png": "c85a1501c4f32b4b33c5d0776b3d840e9594e9cf",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "04686764657eb16b453e3cae9016d8e1244adfc3",
-    "/main.51fcfbf7be8d0a14.js": "70a363daaecaea724150c1178a0921a6cbee93aa",
-    "/manifest.webmanifest": "f84ed76eda5100867fb7269b7bec70ca4a982479",
-    "/polyfills.aea69b34d1639466.js": "bd50a4d2fc630f433cd726c80807113da89dc70a",
-    "/runtime.42857009c20121e6.js": "482ec1871ab55cb5702e44da4cdaac28ba13cc28",
-    "/styles.18ed730b3963fa47.css": "3db474f52317690c6e722500c0186abb51086eee"
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-128x128.png": "d895a91e6ae664bf0bd7fa2be47f288c448b3f66",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-144x144.png": "e09be47659bb6837f513e2bb4fba5c039885be90",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-152x152.png": "e1372e68e1871418bad3a81bccd0fd69c50eb10d",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-192x192.png": "c8a4ae0351fb0842eecb3886793fe6b0caaa0711",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-384x384.png": "5434230f0f8a418aae720bab181acdba28a187e7",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-48x48.png": "ad24a512ed655a55b9063dc4e7d7318936bf6331",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-512x512.png": "52e7b6eb8c25e11ccf370f1bc34b337cd65faa60",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-72x72.png": "2538f2e7cce667e615889cc7d9851191ad6de769",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-96x96.png": "c85a1501c4f32b4b33c5d0776b3d840e9594e9cf",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html": "529145cfc1748c6fcb4c06d98ee5956ad6a0ea14",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/main.51fcfbf7be8d0a14.js": "70a363daaecaea724150c1178a0921a6cbee93aa",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/manifest.webmanifest": "d7b3c6bfc4c7b173063b4962690fdb92f16b2fb5",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/polyfills.aea69b34d1639466.js": "bd50a4d2fc630f433cd726c80807113da89dc70a",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/runtime.42857009c20121e6.js": "482ec1871ab55cb5702e44da4cdaac28ba13cc28",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/styles.18ed730b3963fa47.css": "3db474f52317690c6e722500c0186abb51086eee"
   },
   "navigationUrls": [
     {
