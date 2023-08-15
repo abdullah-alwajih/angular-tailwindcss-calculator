@@ -19,7 +19,7 @@
 
 
 .calculator span {
-  @apply relative grid place-items-center p-4
+  @apply relative grid grid-cols-1 place-items-center p-4
   shadow-[inset_-8px_0_8px_hsla(var(--hue-color),10%,10%),inset_0_-8px_8px_hsla(var(--hue-color),10%,12%),inset_8px_0_8px_hsla(var(--hue-color),10%,40%),inset_0_8px_8px_hsla(var(--hue-color),10%,40%),0_0_0_2px_hsla(var(--hue-color),10%,9%),10px_20px_25px_hsla(var(--hue-color),10%,10%)] text-[color:var(--key-number-color)] select-none cursor-pointer font-normal  rounded-[10px];
   background: linear-gradient(
     90deg,

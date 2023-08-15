@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1691922772681,
+  "timestamp": 1692126320545,
   "index": "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/favicon.ico",
         "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html",
-        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/main.51fcfbf7be8d0a14.js",
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/main.ffa12445479af337.js",
         "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/manifest.webmanifest",
         "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/polyfills.aea69b34d1639466.js",
         "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/runtime.42857009c20121e6.js",
-        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/styles.18ed730b3963fa47.css"
+        "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/styles.822c909a34ea01d7.css"
       ],
       "patterns": []
     },
@@ -54,12 +54,12 @@
     "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-72x72.png": "2538f2e7cce667e615889cc7d9851191ad6de769",
     "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/assets/icons/icon-96x96.png": "c85a1501c4f32b4b33c5d0776b3d840e9594e9cf",
     "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html": "529145cfc1748c6fcb4c06d98ee5956ad6a0ea14",
-    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/main.51fcfbf7be8d0a14.js": "70a363daaecaea724150c1178a0921a6cbee93aa",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/index.html": "9f889f66afdfda9f7972b939896dabc172b68bcc",
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/main.ffa12445479af337.js": "7d7e5f2c7635e65f65d9bf8922e72471b9168445",
     "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/manifest.webmanifest": "d7b3c6bfc4c7b173063b4962690fdb92f16b2fb5",
     "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/polyfills.aea69b34d1639466.js": "bd50a4d2fc630f433cd726c80807113da89dc70a",
     "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/runtime.42857009c20121e6.js": "482ec1871ab55cb5702e44da4cdaac28ba13cc28",
-    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/styles.18ed730b3963fa47.css": "3db474f52317690c6e722500c0186abb51086eee"
+    "https://abdullah-alwajih.github.io/angular-tailwindcss-calculator/styles.822c909a34ea01d7.css": "5c4e8cd5966803463fa9d48af7fc58d0cbba9d95"
   },
   "navigationUrls": [
     {
