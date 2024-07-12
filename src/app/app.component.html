@@ -1,8 +1,11 @@
 <div class="container">
   <form class="calculator" name="calc">
     <input [value]="result" class="value" name="txt" readonly type="text">
-    <span (click)="button.action()" *ngFor="let button of buttons" [ngClass]="'num ' + button.class">
-      <i>{{button.value}}</i>
+    @for (button of buttons; track button.value) {
+      <span (click)="button.action()" [class]="'num ' + button.class">
+      <i>{{ button.value }}</i>
     </span>
+    }
+
   </form>
 </div>
